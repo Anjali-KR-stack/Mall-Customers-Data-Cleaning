@@ -20,4 +20,4 @@ Annual Income: $15 to $137
 Spending Score: 1 to 100 (valid range)
 Conclusion
 
-The dataset is clean, consistent.
+The dataset is clean and consistent.
